@@ -41,6 +41,8 @@ The bird automatically falls due to gravity, and the player must press the **Spa
 5. Try to get the highest score!
 
 ---
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ---
 
 > ⚠️ **Note:** All images used in this game (bird, pipes, background, etc.) are stored locally in the `Images/` folder.
